@@ -10,7 +10,9 @@ This project delves into the analysis of ODI World Cup data, extracting valuable
 
 - **Visualization**: Used Matplotlib and Seaborn to create detailed and informative visualizations that effectively communicate the insights.
 
+
 ## Project Structure
+"""
 ├── Data/  
 │   # It contails all the data from webscraping except **math information data**  
 ├── Team/                
@@ -24,6 +26,7 @@ This project delves into the analysis of ODI World Cup data, extracting valuable
 |  ├── Analysis_1.ipynb             # Script for Analysis and visulization.  
 ├── # There are scripts that are used to collect the data from web.  
 ├── README.md                       # Project README file  
+"""
 
 
 ## Acknowledgments
