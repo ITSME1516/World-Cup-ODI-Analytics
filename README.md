@@ -11,13 +11,13 @@ This project delves into the analysis of ODI World Cup data, extracting valuable
 - **Visualization**: Used Matplotlib and Seaborn to create detailed and informative visualizations that effectively communicate the insights.
 
 ## Project Structure
-├── Data/
-│   # It contails all the data from webscraping except **math information data**
-├── Team/              
-|   # It has the indivitual team data by years.From (1975 - 2024)
-├── Data Cleaning/                  # Source code for Cleaning the data and cleaned data files.
-│   ├── batting_pre_cleaning.ipynb  # Script for batting data Cleaning  
-│   ├── bowling_pre_cleaning.ipynb  # Script for bowling data Cleaning
+├── Data/  
+│   # It contails all the data from webscraping except **math information data**  
+├── Team/                
+|   # It has the indivitual team data by years.From (1975 - 2024)  
+├── Data Cleaning/                  # Source code for Cleaning the data and cleaned data files.  
+│   ├── batting_pre_cleaning.ipynb  # Script for batting data Cleaning    
+│   ├── bowling_pre_cleaning.ipynb  # Script for bowling data Cleaning  
 │   ├── player_statistics.ipynb     # Script for adding some required features like strike rate, avg runs,balls,etc..
 |   ├── Data/                       # This folder contains the Processed data
 ├── Analysis/
