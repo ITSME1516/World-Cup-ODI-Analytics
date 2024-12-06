@@ -12,7 +12,7 @@ This project delves into the analysis of ODI World Cup data, extracting valuable
 
 
 ## Project Structure
-"""
+
 ├── Data/  
 │   # It contails all the data from webscraping except **math information data**  
 ├── Team/                
@@ -26,7 +26,7 @@ This project delves into the analysis of ODI World Cup data, extracting valuable
 |  ├── Analysis_1.ipynb             # Script for Analysis and visulization.  
 ├── # There are scripts that are used to collect the data from web.  
 ├── README.md                       # Project README file  
-"""
+
 
 
 ## Acknowledgments
