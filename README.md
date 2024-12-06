@@ -18,12 +18,12 @@ This project delves into the analysis of ODI World Cup data, extracting valuable
 ├── Data Cleaning/                  # Source code for Cleaning the data and cleaned data files.  
 │   ├── batting_pre_cleaning.ipynb  # Script for batting data Cleaning    
 │   ├── bowling_pre_cleaning.ipynb  # Script for bowling data Cleaning  
-│   ├── player_statistics.ipynb     # Script for adding some required features like strike rate, avg runs,balls,etc..
-|   ├── Data/                       # This folder contains the Processed data
-├── Analysis/
-|  ├── Analysis_1.ipynb             # Script for Analysis and visulization.
-├── # There are scripts that are used to collect the data from web.
-├── README.md                       # Project README file
+│   ├── player_statistics.ipynb     # Script for adding some required features like strike rate, avg runs,balls,etc..  
+|   ├── Data/                       # This folder contains the Processed data  
+├── Analysis/  
+|  ├── Analysis_1.ipynb             # Script for Analysis and visulization.  
+├── # There are scripts that are used to collect the data from web.  
+├── README.md                       # Project README file  
 
 
 ## Acknowledgments
